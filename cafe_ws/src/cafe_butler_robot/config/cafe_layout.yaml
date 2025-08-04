@@ -1,0 +1,16 @@
+cafe_layout:
+  positions:
+    home: [0.0, 0.0]
+    kitchen: [-2.0, 3.0]
+    table1: [2.0, 2.0]
+    table2: [4.0, 1.0]
+    table3: [3.0, -1.0]
+  
+  robot_settings:
+    max_linear_speed: 0.5
+    max_angular_speed: 1.0
+    position_tolerance: 0.2
+    
+  timing:
+    kitchen_wait_time: 2.0
+    delivery_time: 2.0
